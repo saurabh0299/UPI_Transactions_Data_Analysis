@@ -1,3 +1,8 @@
-# UPI_Transactions_data_Analysis
-The analysis of UPI transaction data provides valuable insights into the way that Indians are using the platform. The  UPI is having a positive impact on the Indian economy and that there are a number of opportunities for businesses to leverage UPI to grow their businesses. 
-Analyzing UPI (Unified Payments Interface) transaction data involves examining various aspects of transactions conducted through the UPI platform Understand transaction trends, user behavior, and patterns within the UPI ecosystem Understand transaction trends, user behavior, and patterns within the UPI ecosystem.
+# UPI_Transactions_Data_Analysis
+• The primary objective of this project is to analyze UPI 
+transaction data to gain insights into consumer 
+behavior, transaction trends, and patterns in digital 
+payments within a specific timeframe 
+• Performed Data Cleaning, Exploratory Data Analysis 
+(EDA), Visualization, Statistical Analysis 
+•The analysis of UPI transaction data provides valuable insights into the way that Indians are using the platform.
